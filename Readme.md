@@ -8,7 +8,7 @@ EastCom Tech Solutions is a premium digital agency and solar energy solutions pr
 - **Strategic Consulting**: Expert guidance on energy transitions and digital transformation.
 - **Growth Analytics**: Data-driven insights to optimize performance and ROI.
 - **Creative Design**: Aesthetically pleasing and functional designs for both digital and physical infrastructure.
-- **Security Solutions**: Advanced monitoring and protection for solar assets.
+- **Security Solutions**: Advanced monitoring and protection for solar assets
 
 
 ## 📞 Contact
